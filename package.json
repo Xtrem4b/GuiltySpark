@@ -1,0 +1,11 @@
+{
+  "name": "guiltyspark",
+  "version": "1.0.0",
+  "description": "Guilty Spark Home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Meunier",
+  "license": "ISC"
+}
